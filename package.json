@@ -1,0 +1,23 @@
+{
+  "name": "towncraft",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "Sea hosting Yannick",
+  "license": "ISC",
+  "dependencies": {
+    "discord-giveaways": "^2.3.0",
+    "discord.js": "^11.5.1",
+    "ms": "^2.1.2",
+    "node-opus": "^0.3.3",
+    "nodemon": "^2.0.0",
+    "opusscript": "0.0.7",
+    "yt-search": "^0.4.1",
+    "ytdl-core": "^1.0.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
